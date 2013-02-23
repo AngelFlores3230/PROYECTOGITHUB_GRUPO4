@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*estilos pagina */
+body {
+	background-color:#FFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+}
+
+
+h1{
+	color:#FFF;
+	font-size: 28px;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+	
+		text-shadow:2px 2px 5px rgba(0,0,0,10);
+	-webkit-text-shadow:2px 2px 5px rgba(0,0,0,10);
+	-moz-text-shadow:2px 2px 5px rgba(0,0,0,10);
+	
+	}
+
+h2{
+	color:#27337E;
+	font-size: 18px;
+	font-family: "Courier New", Courier, monospace;
+	text-align:center;
+	}
+	
+h3{
+	color:#333;
+	font-size: 12px;
+	font-family: "Courier New", Courier, monospace;
+	text-align:justify;
+	}
+	
+p{
+	color:#333;
+	font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+	}	
+
+/*estilos nav */
+
+nav {
+	display:inline;
+	width:60px;
+	font-size: 14px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+nav a:link, nav a:visited {
+	display: inline;
+	padding: 3px;
+	text-decoration: none;
+	margin: 0px;
+	color:#333;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: #FFF;
+	background-color: #039;
+	font-size: 14px;
+}
+
+
+
+
+/*estilos bordes */
+
+#capa1{
+	border-radius:10px 10px 10px 10px;
+	margin-top:10px;
+	padding:5px;
+	width: 350px;
+	background-color: #FFC;
+	font-style: normal;
+	
+	
+	box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-webkit-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-moz-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	
+	  } 
+	  
+	  
+#capa2{
+	border-radius:10px 10px 10px 10px;
+	margin-top:10px;
+	padding:5px;
+	width: 350px;
+	background-color: #9FC;
+	font-style: normal;
+	
+
+	box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-webkit-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-moz-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	
+
+	
+}
+	  
+	  
+	  
+#capa3{
+	border-radius:10px 10px 10px 10px;
+	margin-top:10px;
+	padding:5px;
+	width: 350px;
+	background-color: #FCC;
+	font-style: normal;
+	
+	
+	box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-webkit-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	-moz-box-shadow:5px 5px 5px rgba(0,0,0,10);
+	
+	  } 
+	  
+#capa4{
+	float:none;
+	margin-top:100px;
+	margin-left:250px;
+	height:200px;
+	width:300px;
+	background-color:rgba(30,56,160,0.3);
+}
+
+
+
+
+/*estilos rgb */
+  #contenedor{
+	position:absolute;
+	height:600px;
+	width:400px;
+	background-color: rgb(100,150,200);
+            }
+  
+        #texto{             color: rgba(0,0,0,0.5);
+            float:left;
+            text-align:center;
+            margin-top:90px;
+            margin-left:25px;
+            height:20px;
+            width:250px;        }
+			
+			
+			
+			
+			
